@@ -1,0 +1,32 @@
+.container{
+    width:500px;
+    text-align: center;
+    height:150px;
+    margin: 100px 375px;
+    background-color: aquamarine;
+}
+h1{
+    color: white;
+}
+.form{
+    line-height: 35px;
+    background-color: aquamarine;
+    height: 150px;
+    
+
+}
+
+input{
+    border-width: 0px;
+    height: 20px;
+    border-radius: 8px;
+}
+
+.btn{
+    padding: 10px 15px;
+    border-width: 0px;
+    background-color: rgb(224, 148, 61);
+    color: white;
+    border-radius: 8px;
+}
+
